@@ -1,8 +1,10 @@
-I'm a student learn on Github.
-Who can help with me?
+### 👋 Hi there, I'm chengcheng
 
+- I'm a student learn in GuangDong, Shantou
+- I hope anyone can teach me
+- Try to create PR to learn
 - email: hello_world0000@outlook.com
-<!---
-github0hello/github0hello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### 🛠️ Tech Stack
+Python, Expo(learning), Html
