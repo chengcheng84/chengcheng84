@@ -12,8 +12,7 @@ Python, Expo(learning), Html
 
 ### My Goal - 100 PR
 
-<details>
-<summary>PR</summary>
+
  - https://github.com/PrefectHQ/fastmcp/pull/979 (My first PR)
  - https://github.com/CherryHQ/cherry-studio-app/pull/277
  - https://github.com/CherryHQ/cherry-studio-app/pull/289
@@ -23,4 +22,4 @@ Python, Expo(learning), Html
  - https://github.com/ollama/ollama/pull/13265
  - https://github.com/nexmoe/VidBee/pull/274
  - https://github.com/nexmoe/VidBee/pull/275
-</details>
+
