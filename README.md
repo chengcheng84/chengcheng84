@@ -14,13 +14,13 @@ Python, Expo(learning), Html
 
 <details>
 <summary>PR</summary>
- 1. https://github.com/PrefectHQ/fastmcp/pull/979 (My first PR)
- 2. https://github.com/CherryHQ/cherry-studio-app/pull/277
- 3. https://github.com/CherryHQ/cherry-studio-app/pull/289
- 4. https://github.com/CherryHQ/cherry-studio-app/pull/290
- 5. https://github.com/CherryHQ/cherry-studio-app/pull/299
- 6. https://github.com/CherryHQ/cherry-studio-app/pull/295
- 7. https://github.com/ollama/ollama/pull/13265
- 8. https://github.com/nexmoe/VidBee/pull/274
- 9. https://github.com/nexmoe/VidBee/pull/275
+ - https://github.com/PrefectHQ/fastmcp/pull/979 (My first PR)
+ - https://github.com/CherryHQ/cherry-studio-app/pull/277
+ - https://github.com/CherryHQ/cherry-studio-app/pull/289
+ - https://github.com/CherryHQ/cherry-studio-app/pull/290
+ - https://github.com/CherryHQ/cherry-studio-app/pull/299
+ - https://github.com/CherryHQ/cherry-studio-app/pull/295
+ - https://github.com/ollama/ollama/pull/13265
+ - https://github.com/nexmoe/VidBee/pull/274
+ - https://github.com/nexmoe/VidBee/pull/275
 </details>
