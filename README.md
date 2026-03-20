@@ -8,7 +8,3 @@
 ### 🛠️ Tech Stack
 
 Python, Expo(learning), Html
-
-
-
- 
