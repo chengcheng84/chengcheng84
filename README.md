@@ -4,6 +4,7 @@
 - I hope someone can teach me and make friends with me.
 - Try to create PR to learn.
 - Now I'm in eighth grade in middle school.
+- I also like playing cube
 
 ### 🛠️ Tech Stack
 
