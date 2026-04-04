@@ -12,7 +12,7 @@ Python, Expo(learning), Html
 
 ### Blogs
 
-- [2026-4-4](./blogs/2026-4-4.md)
+- [2026-4-4](./blogs/2026-4-4.md) - 19 mins
 
 ### Personal website
 
